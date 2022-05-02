@@ -16,7 +16,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Advice Generator](https://mofe-advice-generator-app.netlify.app/)
 
 ## My process
 
@@ -29,4 +29,4 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mofe620)
-- Twitter - [@yourusername](https://www.twitter.com/Mofe620)
+- Twitter - [@yourusername](https://www.twitter.com/Mofe620
