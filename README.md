@@ -15,7 +15,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [FrontEndMentor](https://www.frontendmentor.io/solutions/advice-generator-app-using-js-api-Sy66y-6B9)
 - Live Site URL: [Advice Generator](https://mofe-advice-generator-app.netlify.app/)
 
 ## My process
@@ -27,6 +27,5 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mofe620)
-- Twitter - [@yourusername](https://www.twitter.com/Mofe620
+- Frontend Mentor - [@Mofe620](https://www.frontendmentor.io/profile/Mofe620)
+- Twitter - [@Mofe620](https://www.twitter.com/Mofe620)
