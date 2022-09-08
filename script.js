@@ -11,6 +11,8 @@ dice.addEventListener('click', function(){
 function getAdvice(){
     // Create a request variable and assign a new XMLHttpRequest object to it.
     var request = new XMLHttpRequest()
+    aContent.classList.remove('fade');
+    dice.classList.remove('spin');
 
     // Open a new connection, using the GET request on the URL endpoint
     request.open('GET', 'https://api.adviceslip.com/advice', true)
@@ -22,6 +24,8 @@ function getAdvice(){
         if (request.status >= 200 && request.status < 400) {
             aID.textContent = "#" + adviceSlip.id;
             aContent.textContent = '"' + adviceSlip.advice + '"';
+            aContent.classList.add('fade')
+            dice.classList.add('spin')
         }   else {
                 console.log('error')
             }

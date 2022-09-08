@@ -19,6 +19,11 @@ body {
     align-items: center;
     margin-top: 5em;
 }
+.main-heading {
+    color: hsl(150, 100%, 66%);
+    margin-bottom: 1em;
+    margin-top: -1em;
+}
 .advice-card {
     background-color: hsl(217, 19%, 24%);
     border-radius: 0.5em;
@@ -40,6 +45,13 @@ body {
     margin-bottom: 1.2em;
     text-align: center;
 }
+#advice-content {
+    opacity: 0;
+}
+#advice-content.fade {
+    opacity: 1;
+    transition: all 2s ease;
+}
 img.divider {
     margin-bottom: 1.2em;
 }
@@ -59,11 +71,16 @@ img.divider {
     box-shadow: 0px 0px 10px 2px hsl(150, 90%, 72%);
     filter: brightness(0.9);
 }
+.dice.spin {
+    transform: rotate(1440deg);
+    transition: all 2s ease-out;
+}
 footer {
     color: hsl(150, 90%, 72%);
     font-size: 16px;
     text-align: center;
     margin-top: 4em;
+    text-decoration: underline;
 }
 footer a{
     color: inherit;
@@ -74,6 +91,9 @@ footer a{
     body {
         max-width: 400px;
     }    
+    .main-heading {
+        margin-top: 0em;
+    }
     .advice-card {
         max-width: 80%;
     }
